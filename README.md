@@ -61,11 +61,10 @@ I am a passionate data analyst with a focus on leveraging data to drive decision
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
 
-![Contact Image](https://via.placeholder.com/600x200)  
+![Contact me](contact.jpg)  
 *Visual representing contact or networking*
 
 - **Email:** [omogbemiab@gmail.com](omogbemiab@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
 - **GitHub:** [https://github.com/OmogbemiBen](https://github.com/OmogbemiBen)
 
 Thank you for visiting my portfolio!
