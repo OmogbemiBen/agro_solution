@@ -18,24 +18,17 @@ I am a passionate data analyst with a focus on leveraging data to drive decision
 - **Database Management:** MySQL, PostgreSQL
 - **Tools:** Jupyter Notebooks, GitHub, Excel
 
-![Skills Visualization](https://via.placeholder.com/600x400)  
-*Infographic or chart representing your skill set*
-
 ## Projects
 
 ### [Project: Predictive Model for Maize Yield](https://github.com/yourusername/maize-yield-prediction)
 **Objective:** Develop a predictive model to estimate maize yield per hectare yearly, across different maize varieties.
 
-![Maize Field Image](https://via.placeholder.com/600x400)  
-*Image of a maize field or a related visual*
+![](maize.jpg)  
 
 - **Project Description:** This project involves building a predictive model that forecasts maize yield per hectare based on various factors such as maize variety, soil type, weather conditions, and farming practices. The goal is to help farmers and agricultural stakeholders optimize their crop production and make informed decisions about which maize varieties to plant.
 
 - **Tools Used:** Python, Scikit-learn, Pandas, Matplotlib
 - **Skills Demonstrated:** Data cleaning, feature engineering, regression analysis, model evaluation
-
-![Data Flow Diagram](https://via.placeholder.com/600x400)  
-*Flowchart or diagram of the data analysis process used in the project*
 
 - **Outcome:** The model accurately predicts maize yield with a Mean Absolute Error (MAE) of [insert MAE here], enabling farmers to plan better and maximize their yield. The project also provides insights into the factors that most significantly influence maize yield, helping to guide agricultural practices.
 
@@ -44,9 +37,6 @@ I am a passionate data analyst with a focus on leveraging data to drive decision
   - **Exploratory Data Analysis (EDA):** Conducted thorough analysis to identify key trends and correlations.
   - **Regression Techniques:** Applied various regression models to build and evaluate the predictive model.
   - **Visualization:** Created detailed visualizations to communicate model performance and yield predictions.
-
-![Yield Prediction Graph](https://via.placeholder.com/600x400)  
-*Graph showing predicted vs. actual maize yield*
 
 - **Challenges Overcome:**
   - **Data Quality Issues:** Addressed missing or inconsistent data to improve model accuracy.
@@ -62,7 +52,6 @@ I am a passionate data analyst with a focus on leveraging data to drive decision
 Feel free to reach out if you have any questions or would like to collaborate on a project!
 
 ![Contact me](contact.jpg)  
-*Visual representing contact or networking*
 
 - **Email:** [omogbemiab@gmail.com](omogbemiab@gmail.com)
 - **GitHub:** [https://github.com/OmogbemiBen](https://github.com/OmogbemiBen)
