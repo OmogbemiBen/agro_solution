@@ -9,9 +9,6 @@ Welcome to my portfolio! Here you’ll find a collection of my data analysis pro
 
 I am a passionate data analyst with a focus on leveraging data to drive decision-making in agriculture and other industries. My expertise lies in using statistical methods, machine learning, and data visualization to uncover patterns and predict outcomes. I am dedicated to applying my skills to projects that have a real-world impact, particularly in the area of agricultural productivity.
 
-![Profile Image](https://via.placeholder.com/150)  
-*Profile picture or an image representing your field of work*
-
 ## Skills
 
 - **Programming Languages:** Python, R, SQL
