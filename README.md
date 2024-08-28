@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! Here you’ll find a collection of my data analysis projects, showcasing the diverse skills and tools I’ve utilized in my journey as a data analyst. Each project reflects my approach to solving complex problems, drawing insights from data, and effectively communicating results.
 
-![Portfolio Banner](https://via.placeholder.com/1200x300)  
+![data analysis process](data_analysis.png)  
 *Visual representation of data analysis process*
 
 ## About Me
